@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500&family=Commissioner:wght@200;400;500&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family: 'Commissioner', sans-serif;
+	color: #1B1B1B;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Commissioner', sans-serif;
+	color: #1B1B1B;
+}
+p{
+	line-height: 150%
+}
+.bg-primary{
+	background-color: #F0ED00
+}
+.bg-secondary{
+	background-color: #0076EE
+}
+.bg-error{
+	background: #F60A85
+}
+.text-secondary{
+	background: #F60A85
+}
+.text-primary{
+	color: #1E266D
+}
+.bg-secondary-opacity{
+	background: #F9F3FE;
+}
+.container{
+	width: 1200px;
+	margin: 0 auto;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+.col-1{
+	width: 8.33%;
+}
+.col-2{
+	width: 16.66%;
+}
+.col-3{
+	width: 25%;
+}
+.col-4{
+	width: 33.33%;
+}
+.col-5{
+	width: 41.66%;
+}
+.col-6{
+	width: 50%;
+}
+.col-7{
+	width: 58.33%;
+}
+.col-8{
+	width: 66.66%;
+}
+.col-9{
+	width: 75%;
+}
+.col-10{
+	width: 83.33%;
+}
+.col-11{
+	width: 91.66%;
+}
+.col-12{
+	width: 100%
+}
+.p-1{
+	padding: 4px;
+}
+.p-10{
+	padding: 40px
+}
+.py-4{
+	padding: 12px 0 
+}
+.px-4{
+	padding: 0 12px
+}
+.px-8{
+	padding: 0 32px
+}
+.px-10{
+	padding: 0 40px;
+}
+.pb-15{
+	padding-bottom: 60px;
+}
+.mt-4{
+	margin-top: 16px;
+}
+.mt-20{
+    margin-top: 80px	
+}
+.pr-20{
+	padding-right: 80px;
+}
+.pr-10{
+	padding-right: 40px;
+}
+.pl-10{
+	padding-left: 40px;
+}
+.pl-15{
+	padding-left: 60px;
+}
+.pl-18{
+	padding-left: 72px;
+}
+.pl-20{
+	padding-left: 80px;
+}
+.pt-10{
+	padding-top: 40px;
+}
+.pt-8{
+	padding-top: 32px;
+}
+.pt-6{
+	padding-top: 24px;
+}
+.text-c{
+	text-align: center
+}
+.text-r{
+	text-align: right
+}
+.align-i-center{
+	align-items: center;
+}
+.justify-c-center{
+	justify-content: center
+}
+.align-s-center{
+	align-self: center
+}
+.align-s-top{
+	align-self: flex-start;
+}
+.align-s-bot{
+	align-self: flex-end;
+}
+.justify-c-sb{
+	justify-content:  space-between;
+}
+.btn{
+	padding: 12px 48px;
+	text-decoration: none;
+}
+.btn-primary{
+	background-color: rgba(0,0,0,0.60);
+	color: white
+}
+.btn-white{
+	background-color: white;
+	box-shadow: 10px 6px 12px -7px rgba(0,0,0,0.22);
+	color: #1B1B1B;
+}
+.star{
+	color: #f6ad01;
+}
+
